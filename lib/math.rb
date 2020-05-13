@@ -20,5 +20,5 @@ end
 
 def square_root(num)
   import math
-return square_root(num)
+return integer.sqrt(num) 
 end
